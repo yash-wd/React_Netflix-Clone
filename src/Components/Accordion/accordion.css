@@ -1,0 +1,51 @@
+.accordion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 60%;
+    font-size: 1.625rem;
+}
+
+.accord-content{
+    padding-bottom: 0.5rem;
+}
+
+.accord-qustion{
+    width: 100%;
+    text-align: left;
+    background: #303030;
+    color: #fff;
+    padding: 1.3rem 2.2rem 1.3rem 2rem;
+    position: relative;
+    font-size: 1.625rem;
+    cursor: pointer;
+}
+
+.accord-qustion span{
+    position: absolute;
+    right: 5%;
+    font-size: 2rem;
+}
+
+.accord-answer{
+    background: #303030;
+    padding: 1.3rem 2.2rem 1.3rem 2rem;
+    transition: all 1s ease;
+    
+
+}
+
+.answer.close{
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s ease;
+}
+
+.answer{
+    
+    max-height: 1000px;
+    transition: all 0.5s ease;
+    
+}

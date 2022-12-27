@@ -1,0 +1,35 @@
+.newsletter-component{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.newsletter{
+    display: flex;
+    align-items: center;
+    
+}
+
+.newsletter input{
+    width: 450px;
+    height: 60px;
+    padding: 1rem;
+}
+
+.newsletter button{
+    background: #E50914;
+    color: #fff;
+    height: 60px;
+    padding: 0 26px;
+    font-size: 26px;
+}
+
+.newsletter-component p{
+    padding-bottom: 1rem;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 1rem;
+    color: #8c8c8c;
+
+}
