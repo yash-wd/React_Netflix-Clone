@@ -1,0 +1,19 @@
+.sec6{
+    background: #000;
+    border-bottom: 0.5rem solid #222;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 4rem 6.5rem;
+    align-items: center;
+    
+    
+}
+
+.kids{
+    width: 89%;
+}
+
+.kids > img{
+    width: 100%;
+
+}
