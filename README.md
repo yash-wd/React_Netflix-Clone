@@ -1,5 +1,6 @@
-# React_Netflix-Clone
-This project is of Netflix Clone (Front-End) on Sept-2022
+# React_Netflix-Replica
+This project is of Netflix website Clone (Front-End) <br/>
+{ Sept-2022: Netflix model }
 
 <a href='https://netflixdupe.netlify.app/'>Go Live</a>
 <br/> <br/>
