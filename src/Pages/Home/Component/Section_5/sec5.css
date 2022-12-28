@@ -1,0 +1,35 @@
+.sec5{
+    background: #000;
+    border-bottom: 0.5rem solid #222;
+    display: flex;
+    align-items: center;
+    padding: 3rem 6rem 3rem;
+    gap: 2rem;
+}
+
+.mac{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    max-width: 550px;
+    width: 100%;
+}
+
+.mac img{
+    width: 100%;
+    z-index: 2;
+}
+
+.mac .video2{
+    position: absolute;
+    width: 65%;
+    height: 90%;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.video2 video{
+    width: 100%;
+}

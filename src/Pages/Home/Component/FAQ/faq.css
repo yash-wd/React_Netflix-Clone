@@ -1,0 +1,9 @@
+.faqs{
+    background: #000;
+    border-bottom: 0.5rem solid #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 4rem 0;
+}
